@@ -15,8 +15,10 @@ Uygulamalar
 
 6- NetWork Analizi
 
-7- WebCBS uygulaması - Leaflet.js
+7- QGIS te Eklenti Geliştirme
 
-8- WebCBS uygulaması - Turf.js
+8- WebCBS uygulaması - Leaflet.js
+
+9- WebCBS uygulaması - Turf.js
 
 Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
