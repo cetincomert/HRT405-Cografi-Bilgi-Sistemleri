@@ -18,3 +18,5 @@ Uygulamalar
 7- WebCBS uygulaması - Leaflet.js
 
 8- WebCBS uygulaması - Turf.js
+
+Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
