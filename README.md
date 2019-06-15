@@ -1,7 +1,7 @@
 # Coğrafi Bilgi Sistemleri Dersi 
 Ders notları ve Uygulama Kodları
 
-Uygulamalar
+## Uygulamalar
 
 1- Topoloji Kurma
 
@@ -11,9 +11,9 @@ Uygulamalar
 
 4- WFS ve WMS bağlantıları oluşturma
 
-5- Open Street Map'ten veri indirme
+5- Open Street Map'ten veri indirme ve QGIS'te görselleştirme
 
-6- NetWork Analizi
+6- NetWork Analileri
 
 7- QGIS te Eklenti Geliştirme
 
@@ -21,4 +21,9 @@ Uygulamalar
 
 9- WebCBS uygulaması - Turf.js
 
+10-
+
 Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
+
+## QGIS'te Eklenti Geliştirme 
+QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir.
