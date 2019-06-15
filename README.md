@@ -21,9 +21,7 @@ Ders notları ve Uygulama Kodları
 
 9- WebCBS uygulaması - Turf.js
 
-10-
-
 Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
 
 ## QGIS'te Eklenti Geliştirme 
-QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir.
+QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html)
