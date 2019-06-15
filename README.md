@@ -18,7 +18,7 @@ Yol ağı verisinden, graf oluşturma, en kısa yol analizi, servis ağı analiz
 ### 7- QGIS te Eklenti Geliştirme
 QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html).
 #### Osgeo4W kurulumu için
-
+![resim](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/Ekran%20Resmi%202019-06-15%2010.45.23.png)
 ### 8- WebCBS uygulaması - Leaflet.js
 
 ### 9- WebCBS uygulaması - Turf.js
