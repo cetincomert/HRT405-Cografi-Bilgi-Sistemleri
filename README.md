@@ -6,7 +6,7 @@ Ders notları ve Uygulama Dökümanları
 ### 1- Topoloji Kurma
 Bu uygulamada QGIS'te topolojinin nasıl oluşturulduğu, veri kalitesinin topolojik kurallarla nasıl değerlendirildiği gösterilmektedir. Uygulamanın videosuna ulaşmak için lütfen [tıklayınız]()
 ### 2- Kamulaştırma Bilgi Sistemi Oluşturma
-
+Bu uygulamada, QGIS'te bir veri tabanı tasarımının nasıl yapıldığı, veri tabanı oluşturma, veri tabanı bağlantısı, spatial join, attribute join, buffer ve intersect gibi temel CBS işlevleri gösterilmektedir. Uygulama videosuna [buradan](https://www.youtube.com/watch?v=p-kc4daB1bE) ulaşabilirsiniz.
 ### 3- Katı Atık Depolama için Uygun Yer Seçimi
 
 ### 4- WFS ve WMS bağlantıları oluşturma
