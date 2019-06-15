@@ -1,27 +1,29 @@
 # Coğrafi Bilgi Sistemleri Dersi 
-Ders notları ve Uygulama Kodları
+Ders notları ve Uygulama Dökümanları
 
 ## Uygulamalar
 
-1- Topoloji Kurma
+### 1- Topoloji Kurma
+Bu uygulamada QGIS'te topolojinin nasıl oluşturulduğu, veri kalitesinin topolojik kurallarla nasıl değerlendirildiği gösterilmektedir. Uygulamanın videosuna ulaşmak için lütfen [tıklayınız]()
+### 2- Kamulaştırma Bilgi Sistemi Oluşturma
 
-2- Kamulaştırma Bilgi Sistemi Oluşturma
+### 3- Katı Atık Depolama için Uygun Yer Seçimi
 
-3- Katı Atık Depolama için Uygun Yer Seçimi
+### 4- WFS ve WMS bağlantıları oluşturma
 
-4- WFS ve WMS bağlantıları oluşturma
+### 5- Open Street Map'ten veri indirme ve QGIS'te görselleştirme
 
-5- Open Street Map'ten veri indirme ve QGIS'te görselleştirme
+### 6- NetWork Analileri
 
-6- NetWork Analileri
+### 7- QGIS te Eklenti Geliştirme
 
-7- QGIS te Eklenti Geliştirme
+QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html)
 
-8- WebCBS uygulaması - Leaflet.js
+### 8- WebCBS uygulaması - Leaflet.js
 
-9- WebCBS uygulaması - Turf.js
+### 9- WebCBS uygulaması - Turf.js
 
 Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
 
 ## QGIS'te Eklenti Geliştirme 
-QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html)
+
