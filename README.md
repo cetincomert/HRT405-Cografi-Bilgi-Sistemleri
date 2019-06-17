@@ -19,10 +19,15 @@ Yol ağı verisinden, graf oluşturma, en kısa yol analizi, servis ağı analiz
 QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html).
 #### Osgeo4W kurulumu için
 ![resim1](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow41.png)
+Daha sonra
 ![resim2](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4W2.png)
+sonra
 ![resim3](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4w3.png)
+sonra
 ![resim4](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4w5.png)
+sonra
 ![resim5](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow6.png)
+sonra
 ![resim6](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow4W7.png)
 
 ### 8- WebCBS uygulaması - Leaflet.js
