@@ -18,7 +18,13 @@ Yol ağı verisinden, graf oluşturma, en kısa yol analizi, servis ağı analiz
 ### 7- QGIS te Eklenti Geliştirme
 QGIS te eklenti geliştirilebilmesi için öncelikle **OSGEO4W** kurulumu yapılması gerekmektedir. OSGEO4W'ü indirmek için lütfen [tıklayınız](https://qgis.org/tr/site/forusers/download.html).
 #### Osgeo4W kurulumu için
-![resim](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow41.png)
+![resim1](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow41.png)
+![resim2](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4W2.png)
+![resim3](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4w3.png)
+![resim4](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeo4w5.png)
+![resim5](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow6.png)
+![resim6](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow4W7.png)
+
 ### 8- WebCBS uygulaması - Leaflet.js
 
 ### 9- WebCBS uygulaması - Turf.js
