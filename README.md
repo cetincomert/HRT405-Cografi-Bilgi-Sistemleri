@@ -1,5 +1,6 @@
 # Coğrafi Bilgi Sistemleri Dersi 
 Ders notları ve Uygulama Dökümanları
+Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
 
 ## Uygulamalar
 
@@ -41,10 +42,11 @@ sonra
 ![resim6](https://github.com/cetincomert/HRT405-Cografi-Bilgi-Sistemleri/blob/master/osgeoW4%20kurulum%20resimleri/osgeow4W7.png)
 
 ### 8- WebCBS uygulaması - Leaflet.js
+Bu uygulamada leaflet kütüphanesi kullanılarak coğrafi verilerin tarayıcı üzerinden görüntülenmesi gerçekleştirilecektir. Leaflet kütüphanesini indirmek için lütfen [tıklayınız](https://leafletjs.com/index.html).
 
 ### 9- WebCBS uygulaması - Turf.js
+Bu uygulamada turf. js kütüphanesi kullanılarak, temel CBS analizleri tarayıcı üzerinden yapılacaktır. Turf.js kütüphanesini indirmek için [tıklayınız](https://github.com/Turfjs/turf).
 
-Ders notlarını, uygulamalar için gerekli olan verileri ve kod örneklerini buradan indirebilirsiniz.
 
 ## QGIS'te Eklenti Geliştirme 
 
