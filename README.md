@@ -48,5 +48,4 @@ Bu uygulamada leaflet kütüphanesi kullanılarak coğrafi verilerin tarayıcı 
 Bu uygulamada turf. js kütüphanesi kullanılarak, temel CBS analizleri tarayıcı üzerinden yapılacaktır. Turf.js kütüphanesini indirmek için [tıklayınız](https://github.com/Turfjs/turf).
 
 
-## QGIS'te Eklenti Geliştirme 
 
